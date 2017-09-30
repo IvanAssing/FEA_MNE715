@@ -1832,6 +1832,17 @@ void GraphicWindow::startSimulation(void)
 void GraphicWindow::drawNextStep(void)
 {
     step++;
+
+//    if(step>=nFrames) stopSimulation();
+
+//    QString filename = QString("./pictures/frame_") + QString("%1").arg(step)
+//            + QString(".png");
+
+//    updateGL();
+
+
+//    this->grabFrameBuffer(true).save(filename, "PNG", 50);
+
     if(step>=nFrames) step=0;
     updateGL();
 }
