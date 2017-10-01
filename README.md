@@ -33,11 +33,11 @@
 - Qt 5.9.1
 
 ## License
-This project is licensed under the GPL License 3.0 - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the GPL License 3.0 - see the [LICENSE](LICENSE) file for details.
 
 ## Authors
-### Copyright (C) 2017 Ivan Assing da Silva
-### Contact: ivanassing@gmail.com
+#### Copyright (C) 2017 Ivan Assing da Silva
+#### Contact: ivanassing@gmail.com
 
 
 ## Screenshots
