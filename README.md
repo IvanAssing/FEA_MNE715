@@ -36,7 +36,8 @@
 This project is licensed under the GPL License 3.0 - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Authors
- Copyright (C) 2007 Ivan Assing da Silva
+ Copyright (C) 2017 Ivan Assing da Silva
+ Contact: ivanassing@gmail.com
 
 
 ## Screenshots
